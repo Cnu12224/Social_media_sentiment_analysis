@@ -7,16 +7,14 @@ This project performs sentiment analysis on social media text data using natural
 
 - Text preprocessing and cleaning (stopwords, punctuation, tokenization)
 - Sentiment classification using machine learning models
-- Real-time prediction interface using Gradio
 - Visualization of sentiment distribution (optional if included)
 
 ## Technologies Used
 
 - Python
-- NLTK / TextBlob / VaderSentiment (depending on implementation)
+- NLTK   
 - Scikit-learn
 - Pandas, NumPy
-- Gradio (for UI)
 
 ## How to Run
 
